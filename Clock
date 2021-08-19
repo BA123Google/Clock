@@ -17,6 +17,6 @@ time()
 
 
 mainloop()
-{
-	"shell_cmd": "make"
-}
+
+	
+
